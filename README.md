@@ -1,2 +1,2 @@
-# personal-expense-management-system
+# personal-financ-manager
 Hệ thống quản lý chi tiêu cá nhân 
